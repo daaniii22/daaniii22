@@ -27,8 +27,8 @@
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=daaniii22&show_icons=true&theme=dark&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=daaniii22&layout=compact&theme=dark&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daaniii22&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daaniii22&theme=2077" width="48%" />
 </p>
 
 ---
