@@ -1,12 +1,9 @@
 # 💫 About Me:
 
-👋 Welcome to my GitHub!
-
-🎓 I'm currently pursuing an undergraduate degree in **Data Science and Artificial Intelligence** at **UPM** (Universidad Politécnica de Madrid).
-
-🧠 I like to solve complex algorithmic problems, optimizing data workflows, and applying machine learning to real-world challenges, especially within the financial and automation sectors.
-
-🌍 I'm always open to **collaboration** and contributions, whether it's a shared interest or a cool project.
+- 👋 Welcome to my GitHub!
+- 🎓 I'm currently pursuing an undergraduate degree in **Data Science and Artificial Intelligence** at **UPM** (Universidad Politécnica de Madrid).
+- 🧠 I like to solve complex algorithmic problems, optimizing data workflows, and applying machine learning to real-world challenges, especially within the financial and automation sectors.
+- 🌍 I'm always open to **collaboration** and contributions, whether it's a shared interest or a cool project.
 
 
 ## 🌐 Socials:
