@@ -1,5 +1,5 @@
 # Daniel Moraleda Sánchez
-> **Data Science & AI Undergraduate @ UPM** · Machine Learning, Distributed Data Systems & Process Automation
+> **Data Science & AI Undergraduate @ UPM** · Machine Learning, Process Automation, Generative AI & Finance.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF5722?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-moraleda-sanchez/)
 [![Email](https://img.shields.io/badge/Email-E65100?style=flat-square&logo=gmail&logoColor=white)](mailto:daniel.moraleda@alumnos.upm.es)
@@ -9,7 +9,7 @@
 ### 01. Overview
 
 Undergraduate student in **Data Science and Artificial Intelligence** at **Universidad Politécnica de Madrid (UPM)**.  
-Hands-on experience developing end-to-end data pipelines, distributed architectures, and applied machine learning models. Specially focused on algorithmic optimization, agentic workflows, and scalable data-intensive environments.
+Hands-on experience developing end-to-end data pipelines, distributed architectures, and applied machine learning models. Specially focused on algorithmic optimization, agentic workflows, and generative AI.
 
 ---
 
